@@ -41,4 +41,9 @@
  | &cross; | Soredemo Ayumu Wa Yosetekuru | [EN]() | [FR]() |
  | &cross; | Tensei Shitara Slime Datta Ken | [EN]() | [FR]() |
  | &cross; | The Fable | [EN]() | [FR]() |
- | &cross; |  | [EN]() | [FR]() |
+ | &check; | Tokyo Ghoul | [EN]() | [FR]() |
+ | &check; | Tokyo Ghoul:Re | [EN]() | [FR]() |
+ | &cross; | Uzaki-chan wa Asobitai | [EN]() | [FR]() |
+ | &cross; | Yancha Gal no Anjou-San | [EN]() | [FR]() |
+ | &cross; | Zombie 100 ~100 Things I Want To Do Before I Become A Zombie~ | [EN]() | [FR]() |
+ 
